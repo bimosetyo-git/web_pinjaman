@@ -26,7 +26,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://simulasidev.pegadaian.co.id/microsite/'</initValue>
+      <initValue>'https://pinjaman.pegadaian.co.id/'</initValue>
       <name>url</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
