@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PILIHAN-KEPEMILIKAN</name>
+   <tag></tag>
+   <elementGuidId>f86f1828-89ac-45f4-ac6c-ea89766fb658</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'keteranganKepemilikanAgunan' and @name = 'keteranganKepemilikanAgunan']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>keteranganKepemilikanAgunan</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>keteranganKepemilikanAgunan</value>
+   </webElementProperties>
+</WebElementEntity>

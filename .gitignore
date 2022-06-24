@@ -1,0 +1,10 @@
+/bin/
+/Libs/
+/.settings/
+/.classpath
+.svn/
+*.project
+/settings/internal/com.kms.katalon.composer.testcase.properties
+/Reports/
+*.cache
+*.prj
